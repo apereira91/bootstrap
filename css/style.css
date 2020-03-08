@@ -1,0 +1,15 @@
+.card {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between, space-around, space-evenly;
+    height: 20px;
+}
+.card-img{
+    width:100%;
+    margin-bottom: -3px;
+    opacity: 1;
+}
+form {
+    display: block;
+    justify-content: space-around;
+}
